@@ -47,7 +47,7 @@
 
 ---
 
-[website]: https://www.amanijoseph.com
+<!-- [website]: https://www.amanijoseph.com
 [twitter]: https://www.linkedin.com/in/amani-joseph-75a394189/
 [instagram]: https://www.instagram.com/joseph_amani_/
-[linkedin]: https://www.linkedin.com/in/amani-joseph-75a394189/
+[linkedin]: https://www.linkedin.com/in/amani-joseph-75a394189/ -->
