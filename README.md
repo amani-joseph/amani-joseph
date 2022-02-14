@@ -32,7 +32,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-[<img src="https://img.icons8.com/color/96/000000/postgreesql.png" style="padding-right:10px;"/> />
+[<img src="https://img.icons8.com/color/48/000000/postgreesql.png" style="padding-right:10px;"/> 
 
 <br />
 <br />
