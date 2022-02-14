@@ -26,17 +26,26 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/joseph_amani_/#gh-dark-mode-only)
 
 <br />
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img src="https://img.icons8.com/color/48/000000/postgreesql.png" style="padding-right:10px;"/>]
-
+<br />
+### Languages and Tools
 <br />
 
+<p>
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-top:20px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/fluency/48/000000/python.png"/>
+<img align="left" alt="Postgresql" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" alt="Mongodb" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/>
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png"/>
+<img align="left" alt="Flask" width="26px" src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/48/000000/figma.png"/>
 
----
+</p>
 
+<br />
