@@ -26,11 +26,12 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/joseph_amani_/#gh-dark-mode-only)
 
 <br />
+
+### Languages and Tools:
 <br />
-### Languages and Tools
 <br />
 
-<p>
+<p style="padding:10px;">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-top:20px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
