@@ -4,11 +4,11 @@
 
 # Hi there 👋, I'm Amani
 
-## I'm a Developer, a student and an administrator!!
-
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate with other like minded individuals
-- 🥅 2022 Goals: Learn Angular && React, Python && Django,
+## I'm a full-stack Developer!!
+- 📖 I'm currently a software development student at Moringa School. 
+- 🌱 I’m currently learning Angular, Flask and Django.
+- 👯 I’m looking to collaborate with other like minded individuals.
+- 🥅 2022 Goals: Learn Angular & React, Python & Django & Flask.
 - ⚡ Fun fact: I dreaded learning Angular, now I'm in love with Angular
 
 ### Connect with me:
