@@ -37,7 +37,7 @@
 <img align="left" alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   <img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+<img align="left" alt="Angular" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png"/>
