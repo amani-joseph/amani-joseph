@@ -5,11 +5,12 @@
 # Hi there 👋, I'm Amani
 
 ## I'm a full-stack Developer!!
-- 📖 I'm currently a software development student at Moringa School. 
-- 🌱 I’m currently learning Angular, Flask and Django.
+- 📖 I'm currently a Fullstack software development student at Moringa School. 
+- 🌱 I’m currently learning Angular,Postgresql, Flask and Django.
 - 👯 I’m looking to collaborate with other like minded individuals.
 - 🥅 2022 Goals: Learn Angular & React, Python & Django & Flask.
-- ⚡ Fun fact: I dreaded learning Angular, now I'm in love with Angular
+- 🎯 2022 Goals hit: Angular, Python,Flask, Postgresql
+- ⚡ Fun fact: I dreaded learning Angular, now I'm in love with Angular..."React better lookout!!"
 
 ### Connect with me:
 
