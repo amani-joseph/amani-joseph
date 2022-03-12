@@ -30,6 +30,14 @@
 <a href="https://amani-joseph.com" style="margin-right:.5%; margin-top=.5%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amani-joseph&&show_icons=true&theme=radical" />
 </a>
+<br />
+
+<a href="https://amani-joseph.com">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amani-joseph&layout=compact)](https://github.com/anuraghazra/github-        readme-stats">
+</a>
+
+<br />
+
   </div>
 <br />
 
