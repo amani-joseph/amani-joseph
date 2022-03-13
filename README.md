@@ -27,7 +27,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/joseph_amani_/#gh-dark-mode-only)
 
 <br />
-<a href="https://amani-joseph.com" style="margin-right:.5%; margin-top=.5%;">
+<a href="https://amanijoseph.com" style="margin-right:.5%; margin-top=.5%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amani-joseph&&show_icons=true&theme=radical" />
 </a>
 <br />
