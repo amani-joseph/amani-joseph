@@ -32,13 +32,15 @@
 </a>
 <br />
 
+<br />
+
 <a href="https://amani-joseph.com">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amani-joseph&layout=compact)](https://github.com/anuraghazra/github-        readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amani-joseph&layout=compact)](https://github.com/amani-joseph/github-readme-stats">
 </a>
 
 <br />
 
-  </div>
+
 <br />
 
 ### Languages and Tools:
