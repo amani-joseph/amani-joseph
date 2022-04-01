@@ -52,17 +52,19 @@
 
 <div>
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-blue.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="python" src="https://img.shields.io/badge/flask%20-%2343853D.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" alt="flask" src="https://img.shields.io/badge/flask%20-%2343853D.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="django" src="https://img.shields.io/badge/django%20-%2343853D.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img align="left" alt="django-rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 </div>
 <br>
 <br>
 <div>
   <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align="left" alt="figma" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white" />
 
-<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-magenta.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+
 </div>
 <br>
 <br>
@@ -76,6 +78,19 @@
 <br>
 <br>
 <div>
+<img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-magenta.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+
+
+</div>
+<br>
+<br>
+<div>
+<img align="left" alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<!-- <img align="left" alt="figma" src="" /> -->
+<!-- <img align="left" alt="figma" src="" /> -->
 <img align="left" alt="figma" src="https://img.shields.io/badge/figma%20-red.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 
 
