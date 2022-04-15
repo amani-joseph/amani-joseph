@@ -7,7 +7,7 @@
 
 - 📖 I'm  a Fullstack software developer. 
 - 🌱 My stack currently is JS, Angular, Tailwind, Sass, Postgresql, Flask and Django.
-- 👯 I’m looking to collaborate with other like minded individuals.
+- 👯 I’m looking to work/collaborate with other like minded individuals towards solving problems.
 - 🥅 2022 Goals: 
 - - Graduate from Moringa School
 - - Deliver tested and client ready SAAS products. (Corporate / Self-Employed)
@@ -36,14 +36,11 @@
 </a>
 <br />
 
-<br />
+
 <!-- 
 <a href="https://amani-joseph.com">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amani-joseph&layout=compact)](https://github.com/amani-joseph/github-readme-stats">
 </a> -->
-
-<br />
-
 
 <br />
 
@@ -123,6 +120,14 @@
 <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" alt="Figma" width="40px" src="https://img.icons8.com/fluency/48/000000/figma.png"/> -->
 
-</p>
+<!-- </p> -->
 
 <br />
+
+<h4>Profile Visits </h4>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=amani-joseph.)
+
+<br />
+
+
