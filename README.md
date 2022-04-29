@@ -6,12 +6,12 @@
 
 
 - 📖 I'm  a Fullstack software developer. 
-- 🌱 My stack currently is JS, Angular, Tailwind, Sass, Postgresql, Flask and Django.
+- 🌱 My stack currently is JS,React, Angular, Postgresql, Flask, Django,Tailwind, and Sass.
 - 👯 I’m looking to work/collaborate with other like minded individuals towards solving problems.
 - 🥅 2022 Goals: 
 - - Graduate from Moringa School
-- - Deliver tested and client ready SAAS products. (Corporate / Self-Employed)
-- - Network with other Developers
+- - Deliver tested and data driven SAAS products.
+- - Network with other Developers 
 - - Contribute to an open-source project
 <!-- - 🎯 2022 Goals hit:  -->
 - ⚡ *Fun fact: Frontend or Backend ?*     ***"I'll have both Thanks😎😎😎"***
