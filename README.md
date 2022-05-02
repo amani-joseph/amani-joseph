@@ -57,7 +57,7 @@
 <br>
 <div>
   <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <img align="left" alt="figma" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<!--   <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%230077B5.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-red.svg?&style=for-the-badge&logo=angular&logoColor=white" />
 
@@ -68,27 +68,27 @@
 <div>
 <img align="left" alt="postgresql" src="https://img.shields.io/badge/postgresql%20-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="git" src="https://img.shields.io/badge/git%20-orange.svg?&style=for-the-badge&logo=git&logoColor=white" />
-<img align="left" alt="heroku" src="https://img.shields.io/badge/heroku%20-purple.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
-<img align="left" alt="netlify" src="https://img.shields.io/badge/netlify%20-teal.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
+<!-- <img align="left" alt="heroku" src="https://img.shields.io/badge/heroku%20-purple.svg?&style=for-the-badge&logo=heroku&logoColor=white" /> -->
+<!-- <img align="left" alt="netlify" src="https://img.shields.io/badge/netlify%20-teal.svg?&style=for-the-badge&logo=netlify&logoColor=white" /> -->
 
 </div>
 <br>
 <br>
 <div>
-<img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<!-- <img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-magenta.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> -->
 
 
 </div>
 <br>
 <br>
 <div>
-<img align="left" alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+<!-- <img align="left" alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" /> -->
 <!-- <img align="left" alt="figma" src="" /> -->
 <!-- <img align="left" alt="figma" src="" /> -->
-<img align="left" alt="figma" src="https://img.shields.io/badge/figma%20-red.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+<!-- <img align="left" alt="figma" src="https://img.shields.io/badge/figma%20-red.svg?&style=for-the-badge&logo=figma&logoColor=white" /> -->
 
 
 </div>
