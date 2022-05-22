@@ -93,9 +93,3 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amani-joseph.)
 
 <br />
-
-
-alstudio.com/items?itemName=AmaniJ.nairobi-dark).]
-
-
-
