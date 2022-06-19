@@ -13,12 +13,12 @@
 <!-- - 🎯 2022 Goals hit:  -->
 - ⚡ *Fun fact: Frontend or Backend ?*     ***"I'll have both Thanks😎"***
 
-### Check out this vs code theme built:
+<!-- ### Check out this vs code theme built: -->
 
-<img align="center" src="https://raw.githubusercontent.com/amani-joseph/ASSETS/main/nairobidark.png">
+<!-- <img align="center" src="https://raw.githubusercontent.com/amani-joseph/ASSETS/main/nairobidark.png"> -->
 
-<a align="center" href="https://raw.githubusercontent.com/amani-joseph/ASSETS/main/nairobidark.png">Nairobi Dark </a>
-![Visual Studio Code align="center"](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- <a align="center" href="https://raw.githubusercontent.com/amani-joseph/ASSETS/main/nairobidark.png">Nairobi Dark </a>
+![Visual Studio Code align="center"](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 ### Connect with me:
 
