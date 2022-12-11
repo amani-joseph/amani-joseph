@@ -6,12 +6,9 @@
 
 
 - 👯 I’m looking to work/collaborate with other like minded individuals towards solving problems.
-- 🥅 2022 Goals: 
-- - Deliver tested and data driven SAAS products.
-- - Network with other Developers 
-- - Contribute to an open-source project
+- 🥅 Drive: 
+- - Providing solutions.
 <!-- - 🎯 2022 Goals hit:  -->
-- ⚡ *Fun fact: Frontend or Backend ?*     ***"I'll have both Thanks😎"***
 
 <!-- ### Check out this vs code theme built: -->
 
