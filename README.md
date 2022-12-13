@@ -5,11 +5,6 @@
 # *Hi there 👋, I'm Amani*
 
 
-- 👯 I’m looking to work/collaborate with other like minded individuals towards solving problems.
-- 🥅 Drive: 
-- - Providing solutions.
-<!-- - 🎯 2022 Goals hit:  -->
-
 <!-- ### Check out this vs code theme built: -->
 
 <!-- <img align="center" src="https://raw.githubusercontent.com/amani-joseph/ASSETS/main/nairobidark.png"> -->
